@@ -1,5 +1,7 @@
 # Solutions
 
+Advent of Code: https://adventofcode.com/
+
 These are deliberately the laziest solutions I could come up with. Or maybe not, I don't know.
 
 ## Day 1
