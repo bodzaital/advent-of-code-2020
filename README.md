@@ -31,3 +31,17 @@ It's always `O(n)`.
 Same as before, but when checking the legality of the password, the `minimum` and the `maximum` is instead a `position1` and `position2`, from which 1 is subtracted, and XOR'd with the `^` caret operator.
 
 It's always `O(n)`.
+
+## Day 3
+
+### Part 1
+
+Loading the list into an array and iterating through until we reach the last line in a while loop. The horizontal index is modulo'd by the length of a line.
+
+It's always `O(n)`.
+
+### Part 2
+
+Same as before, just five times with different changes of the indexes.
+
+It's always `O(5n)`.
